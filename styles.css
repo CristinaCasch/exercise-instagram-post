@@ -1,0 +1,48 @@
+.body { 
+    background-color: white;
+    text-align: center;
+}
+
+.post {
+    font-family: "Segoe UI";
+    width: 500px;
+    margin: auto;
+}
+
+.head{
+   display: -webkit-inline-box;
+
+}
+.toplogo {
+    font-size: 40px;
+    margin: 5px;
+}
+
+.titlehtml {
+    padding: 0;
+    margin: 7px;
+
+}
+
+.options {
+    float: right;
+    text-align: right;
+    width: 430px;
+    font-size: 30px;
+}
+
+.picture {
+    width: 100%;
+    height: 100%;
+}
+
+.post-icons{
+    display: -webkit-inline-box;
+    font-size: 30px;
+}
+
+.save-icon{
+    float: right;
+    text-align: right;
+    width: 430px;
+}
